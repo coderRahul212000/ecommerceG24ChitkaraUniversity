@@ -5,6 +5,12 @@
   box-sizing:border-box;
 }
 
+.navbar{
+  font-family: "Poppins", serif;
+  font-size: 17px;
+  line-height: 26px;
+  text-transform: uppercase;
+}
 /*
 .poppins-thin {
   font-family: "Poppins", serif;
