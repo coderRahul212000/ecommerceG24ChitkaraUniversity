@@ -99,6 +99,18 @@
   justify-content: center;
 }
 
+
+/*================= Register page styling =========================*/
+.register{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  height:70vh;
+  flex-direction: column;
+}
+
+
+
 /*
 .poppins-thin {
   font-family: "Poppins", serif;
